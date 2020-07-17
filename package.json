@@ -22,7 +22,7 @@
     "url": "https://github.com/TabDigital/bison-types/issues"
   },
   "dependencies": {
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.19",
     "coffee-script": "^1.7.1",
     "clever-buffer": "2.0.0",
     "big.js": "~2.5.1"
